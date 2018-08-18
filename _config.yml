@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gianpaolo Demarchi / GS's home"
+title                    : "Gianpaolo Demarchi / GD's home"
 title_separator          : "-"
 name                     : &name "Gianpaolo Demarchi"
 description              : &description "Doing MEG stuff in Salzburg ..."
